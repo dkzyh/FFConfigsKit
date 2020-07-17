@@ -1,0 +1,22 @@
+{
+  "name": "FFConfigsKit",
+  "version": "1.0.0",
+  "summary": "A short description of FFConfigsKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dkzyh/FFConfigsKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Zouyh": "360370709@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/dkzyh/FFConfigsKit.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FFConfigsKit/Classes/**/*"
+}
